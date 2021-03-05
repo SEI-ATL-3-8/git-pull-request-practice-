@@ -3,6 +3,8 @@
 ## Your workflow for submitting HW
 
 1. Clone down this repo
+   <!-- ![image](/images/gitClone.png) -->
+   <img src="/images/gitClone.png"  width="120">
 1. Make some changes: add a new file, or edit existing ones
 1. `git checkout -b your-branch-name` to create your own branch
 1. `git add <name-of-changed-file>` to stage the file for committing
